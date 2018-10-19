@@ -33,6 +33,3 @@ gulp.task('watch', ['build-theme'], function() {
 
 gulp.task('default', ['build-theme'], function() {
 });
-
-
-
