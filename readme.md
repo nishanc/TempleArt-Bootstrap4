@@ -3,7 +3,7 @@
 
 This is Bootstrap version 4 theme based moderately closely on wall painting colors in [Sri Lankan temples](https://en.wikipedia.org/wiki/Category:Buddhist_temples_in_Sri_Lanka) and other historic places.
 
-**You can find the css files for the theme** [here](https://github.com/nishanc/TempleArtTheme/tree/master/css).
+**You can find the css files for the theme** [here](https://github.com/nishanc/TempleArtTheme/tree/master/theme).
 
 Current colors are sampled from various locations including,
 
